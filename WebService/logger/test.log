@@ -1,0 +1,6 @@
+[INFO] 2022/07/18 20:05:36 [/home/yu/CODE/go/src/WebService/logger/logger_test.go:12] test info
+[WARN] 2022/07/18 20:05:36 [/home/yu/CODE/go/src/WebService/logger/logger_test.go:13] test warn
+[ERROR] 2022/07/18 20:05:36 [/home/yu/CODE/go/src/WebService/logger/logger_test.go:14] Ttest error
+[INFO] 2022/07/18 20:08:29 [/home/yu/CODE/go/src/WebService/logger/logger_test.go:12] test info
+[WARN] 2022/07/18 20:08:29 [/home/yu/CODE/go/src/WebService/logger/logger_test.go:13] test warn
+[ERROR] 2022/07/18 20:08:29 [/home/yu/CODE/go/src/WebService/logger/logger_test.go:14] test error

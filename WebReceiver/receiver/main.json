@@ -1,0 +1,7 @@
+{
+    "HOST":"127.0.0.1",
+    "PORT":"8081",
+    "SYMBOL_SPLIT":"#",
+    "TYPE_CONNECT":"tcp",
+    "PATH_LOG":"receiver.log"
+}
